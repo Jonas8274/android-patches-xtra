@@ -1,0 +1,7 @@
+{
+  "created_at": "2026-11-24T05:01:20",
+  "description": "## [2.16.3](https://github.com/BholeyKaBhakt/android-patches-xtra/compare/v2.16.2...v2.16.3) (2026-11-24)\n\n### Bug Fixes\n\n* cleanup emojis ([6f9fcc3](https://github.com/BholeyKaBhakt/android-patches-xtra/commit/6f9fcc3bbdbbb10ed799de907ea705853f5f7e60))",
+  "download_url": "https://github.com/BholeyKaBhakt/android-patches-xtra/releases/download/v2.16.3/patches-2.16.3.mpp",
+  "signature_download_url": "",
+  "version": "2.16.3"
+}
